@@ -1,12 +1,9 @@
-Idle utilizado (Eclipe)
+Idle code used (Eclipse)/Can also be tested with NetBeans.
 
-[Tem como objetivo mostrar ao usuário que está inserindo a idade desejada, saber em qual estado ele se encontra.]
+[Its purpose is to show the user who is entering the desired age what stage they are in.]
 
-(Opções)
+(Options)
 
--Criança
--Adolescente
--Adulto
--Idoso
+-Child -Teenager -Adult -Elderly
 
-Um código simples para treinar Java. Apenas para práticar.
+A simple code to practice Java. Just for practice.
